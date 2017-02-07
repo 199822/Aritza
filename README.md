@@ -1,2 +1,2 @@
 # Aritza
-Este es un proyecto el el cual vamos a aprender a usas GitHub
+Este es un proyecto el cual vamos a aprender a usar GitHub y para que se ultiliza
